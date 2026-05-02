@@ -14,7 +14,9 @@ Este projeto tem como objetivo criar uma página web informativa sobre o jogo Fo
 - **HTML**: Utilizado para a estruturação do conteúdo da página.
 - **CSS**: Utilizado para estilizar e tornar a página visualmente atraente.
 
-## Foto do projeto
+## Link do Projeto 
+
+https://rosysilvaa.github.io/Web-jogo/
 
 
 ![Captura de tela 2025-03-30 070339](https://github.com/user-attachments/assets/ac19f1cf-7efd-4461-aa61-44d5184b668c)
